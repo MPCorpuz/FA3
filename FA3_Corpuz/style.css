@@ -1,0 +1,35 @@
+h1 {text-align: center;
+    box-shadow: inset 0px 1px 5px 0px #3e484f;
+border-color: blue;
+border-width: 2px; 
+border-style: dotted;
+padding: 20px ;
+width: 250px ;
+display: block;
+margin: auto;
+    }
+    p {text-align: justify;
+        background-color: hsl(103, 100%, 28%);
+    color: hsl(0, 0%, 100%);
+    border-color:black;
+border-width: 3px; 
+border-left-style: dashed;
+border-right-style: solid;
+border-top-style: double;
+border-bottom-style: dotted;
+padding-bottom: 10px ;
+padding-left: 15px;
+display: block;
+width: 500px;}
+    body {
+        background-image: url(images/excel.jpg);
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: 1366px 768px;
+}
+span {
+ 
+  margin-right: 5px;
+  margin-left: 2px;
+}
